@@ -17,13 +17,15 @@ Enfin, dans une dernière partie, on constate les impacts de ces pratiques sur l
 - 'Mémoire.pdf' : Le mémoire complet sur le Yield Management
 - 'Requirements.txt' : Liste des packages Python à installer
 
-## Execution du code
-### Installation 
+## Installation 
 Clonez le dépôt :
 ```bash
 git clone https://github.com/KN13i/Yield_Management.git
+```
+Installer les dépendances : 
+```bash
 pip install -r requirements.txt
-
+```
 
 
   
