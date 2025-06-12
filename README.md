@@ -14,7 +14,7 @@ Enfin, dans une dernière partie, on constate les impacts de ces pratiques sur l
 ## Structure 
 - 'Code'
 - 'Data'
-- 'Mémoire.pdf'
+- 'Mémoire.pdf' : Le mémoire complet sur le Yield Management
 - 'Readme'
 - 'Requirements.txt'
 
