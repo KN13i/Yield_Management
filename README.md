@@ -21,7 +21,8 @@ Enfin, dans une dernière partie, on constate les impacts de ces pratiques sur l
 ### Installation 
 Clonez le dépôt :
 ```bash
-git clone 
+git clone https://github.com/KN13i/Yield_Management.git
+pip install -r requirements.txt
 
 
 
