@@ -12,16 +12,18 @@ Dans un second temps, on va appercevoir l'essor des outils numériques au début
 Enfin, dans une dernière partie, on constate les impacts de ces pratiques sur les consommateurs avec des prix personnalisés par rapport à leurs comportements stratégique mais aussi des potentiels problèmes rencontrés sur l'injustice des prix, des dicriminations tarifiares entre clients et un manque de transparence sur l'usage des données.
 
 ## Structure 
-- 'Code'
-- 'Data'
+- 'Code' : Script Python sur l'analyse prédictive et de l'automatisation des prix via la base de donnée
+- 'Data' : Base de données sur les prix dynamiques dans le secteur du covoiturage
 - 'Mémoire.pdf' : Le mémoire complet sur le Yield Management
-- 'Readme'
-- 'Requirements.txt'
+- 'Requirements.txt' : Liste des packages Python à installer
 
 ## Execution du code
+### Installation 
+Clonez le dépôt :
+```bash
+git clone 
 
 
-## Licence
 
   
 
